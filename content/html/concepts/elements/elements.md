@@ -28,7 +28,7 @@ Most elements are made of opening and closing [tags](https://www.codecademy.com/
 
 HTML elements can be nested, which means that elements can contain other elements inside them, or nested. All HTML documents consist of nested HTML elements.
 
-The following example contains four HTML elements: `<html>`, `<body>`, `<h1>`, and `<p>`:
+The following example contains five HTML elements: `<html>`, `<body>`, `<h1>`, `<p>`, and `<br>`:
 
 ```html
 <!DOCTYPE >
@@ -36,6 +36,7 @@ The following example contains four HTML elements: `<html>`, `<body>`, `<h1>`, a
   <body>
     <h1>Blog Post</h1>
     <p>My first paragraph.</p>
+    <br>This is a very interesting paragragh!<br />
   </body>
 </html>
 ```
